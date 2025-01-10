@@ -1,1 +1,32 @@
 pyodbc==4.0.0
+# Web Application Framework
+streamlit==1.41.1
+
+# Database Connectivity
+pyodbc==4.0.39
+
+# Data Processing and Analysis
+pandas==2.0.0
+numpy==1.24.0
+
+# Data Visualization
+matplotlib==3.7.0
+seaborn==0.12.0
+
+# Image Processing
+Pillow==10.0.0
+
+# Serial Communication
+pyserial==3.5
+
+# Excel File Handling
+XlsxWriter==3.1.0
+
+# Email Support
+secure-smtplib==0.1.1
+
+# Date and Time Handling
+python-dateutil==2.8.2
+
+# Logging and System
+logging==0.5.1.2
