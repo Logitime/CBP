@@ -27,5 +27,4 @@ secure-smtplib==0.1.1
 # Date and Time Handling
 python-dateutil==2.8.2
 
-# Logging and System
-logging==0.5.1.2
+
